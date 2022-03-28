@@ -1,9 +1,9 @@
 <h2 align="center">
-  Design Ecommerce - v1.0<br/>
-  <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a>
+  Diseño Ecommerce - v1.0<br/>
+  <a href="https://edinarweb.com" target="_blank">edinarweb.com</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/readme-img2.png" />
 </div>
 
 <br/>
@@ -18,54 +18,54 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Reportar Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Request Feature</a>
+    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Solicitar función</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [EdinarWeb](https://github.com/EdinarWeb/Ecommerce). Thanks!
+Puede bifurcar este repositorio para modificarlo y realizar sus propios cambios. Por favor, denme el crédito adecuado vinculándome a [EdinarWeb](https://github.com/EdinarWeb/). ¡Gracias!
 
-## Built With
+## Construido con ❤️
 
-My personal portfolio <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Pueden visitar mi portafolio personal <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a> que presenta algunos de mis proyectos de github, así como mi currículum y habilidades técnicas.<br/>
 
-This project was built using these technologies.
+Este proyecto fue construido utilizando estas tecnologías.
 
 - React.js
 - Styled-components
 - VsCode
 
-## Features
+## Características
 
-**📖 Multi-Page Layout**
+**📖 Diseño de varias páginas**
 
-**🎨 Styled with Styled-Components and Css with easy to customize colors**
+**🎨 Diseñado con Styled-Components y Css con colores fáciles de personalizar**
 
-**📱 Fully Responsive**
+**📱 Completamente responsive**
 
-## Getting Started
+## Empezando
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clona este repositorio. Necesitará `node.js` y `git` instalados globalmente en su máquina.
 
-## 🛠 Installation and Setup Instructions
+## 🛠 Instrucciones de instalación y configuración
 
-1. Installation: `npm install`
+1. Instalación: `npm install` o `yarn install`
 
-2. In the project directory, you can run: `npm start`
+2. En el directorio del proyecto, puede ejecutar: `npm start` o `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Ejecuta la aplicación en el modo de desarrollo.\
+Abra [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
+La página se volverá a cargar si realiza modificaciones.
 
-## Usage Instructions
+## Instrucciones de uso
 
-Open the project folder and Navigate to `/src/components/` and `/src/pages`. <br/>
-You will find all the components and pages used and you can edit your information accordingly.
+Abra la carpeta del proyecto y navegue hasta `/src/components/` y `/src/pages`. <br/>
+Encontrará todos los componentes y páginas utilizados y podrá editar su información en consecuencia.
 
-### Show your support
+### Muestra tu apoyo
 
-Give a ⭐ if you like this website!
+¡Dale un ⭐ si te gusta este sitio web!
 
 <a href="https://www.buymeacoffee.com/edinarweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
