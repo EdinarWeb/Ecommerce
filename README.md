@@ -10,9 +10,9 @@
 
 <center>
 
-[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/built-with-love.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/made-with-javascript.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/open-source.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/built-with-love.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/made-with-javascript.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/open-source.svg)](https://edinarweb.com) &nbsp;
 
 </center>
 
