@@ -12,9 +12,9 @@
 
 <div align="center">
 
-[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/built-with-love.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/made-with-javascript.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/open-source.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Ecommerce/issues) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/made-with-javascript.svg)](https://github.com/EdinarWeb/Ecommerce/issues) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/open-source.svg)](https://github.com/EdinarWeb/Ecommerce/issues) &nbsp;
 
 </div>
 
