@@ -1,6 +1,6 @@
 <h2 align="center">
   Diseño Ecommerce - v1.0<br/>
-  <a href="https://github.com/EdinarWeb" target="_blank">edinarweb.com</a>
+  <a href="https://edinarweb.com" target="_blank">edinarweb.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/readme-img2.png" />
@@ -25,7 +25,7 @@
 
 ## TL;DR
 
-Puede bifurcar este repositorio para modificarlo y realizar sus propios cambios. Por favor, denme el crédito adecuado vinculándome a [EdinarWeb](https://github.com/EdinarWeb/Ecommerce). ¡Gracias!
+Puede bifurcar este repositorio para modificarlo y realizar sus propios cambios. Por favor, denme el crédito adecuado vinculándome a [EdinarWeb](https://github.com/EdinarWeb/). ¡Gracias!
 
 ## Construido con ❤️
 
