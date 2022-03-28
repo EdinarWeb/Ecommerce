@@ -10,9 +10,9 @@
 
 <center>
 
-[![edinarweb](https://forthebadge.com/images/badges/built-with-love.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://edinarweb.com) &nbsp;
-[![edinarweb](https://forthebadge.com/images/badges/open-source.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/built-with-love.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/made-with-javascript.svg)](https://edinarweb.com) &nbsp;
+[![edinarweb](../../ECOMMERCE/ecommerce/public/images/badges/open-source.svg)](https://edinarweb.com) &nbsp;
 
 </center>
 
@@ -61,8 +61,8 @@ The page will reload if you make edits.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Open the project folder and Navigate to `/src/components/` and `/src/pages`. <br/>
+You will find all the components and pages used and you can edit your information accordingly.
 
 ### Show your support
 
