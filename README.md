@@ -1,6 +1,6 @@
 <h2 align="center">
   Diseño Ecommerce - v1.0<br/>
-  <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a>
+  <a href="https://github.com/EdinarWeb" target="_blank">edinarweb.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/readme-img2.png" />
