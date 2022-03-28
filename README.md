@@ -3,7 +3,9 @@
   <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a>
 </h2>
 <div align="center">
+<a href="http://edinarweb.com/" target="_blank">
   <img alt="Demo" src="https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/readme-img2.png" />
+</a>
 </div>
 
 <br/>
